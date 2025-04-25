@@ -15,6 +15,7 @@ To fine-tune Meta's LLaMA 3 LLM on a personalized dataset and evaluate its perfo
 - Format: CSV
 - Columns: `query`, `response`
 - Preprocessed using Hugging Face's `datasets` library.
+- HR_dataset is sample for dataset you can create your own
 
 ---
 
@@ -50,14 +51,3 @@ To fine-tune Meta's LLaMA 3 LLM on a personalized dataset and evaluate its perfo
 4. Run all cells to train the model.
 
 ---
-
-## 📈 Results
-
-See `results/sample_outputs.txt` for examples of generated answers from the fine-tuned model.
-
----
-
-## 📬 Contact
-
-For questions or collaboration:
-**Mirza Raed** — [LinkedIn](https://linkedin.com) | [Email](mailto:your@email.com)
