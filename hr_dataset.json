@@ -1,0 +1,23 @@
+[ 
+    {
+        "instruction": "What is the expected teaching load for faculty during regular semesters and the summer session according to the provided terms and conditions?",
+        "input": "",
+        "output": "Faculty teaching load shall be three courses/sections in each regular semester (Spring and Fall) and one course in summer every three years."
+    },
+    {
+        "instruction": "What are the expectations from faculty members in terms of research and academic contributions?",
+        "input": "",
+        "output": "Faculty members are expected to publish a minimum of one article per year in a JCR impact factor journal, actively submit research-funding proposals, supervise theses/projects, provide guidance and counseling to students, engage in administration activities, and actively participate in co and extra-curricular activities of the campus."
+    },
+    {
+        "instruction": "Is it permitted for faculty members to teach or work elsewhere during their service?",
+        "input": "",
+        "output": "No, during the course of service, teaching or working elsewhere is not permitted."
+    },
+    {
+        "instruction": "Under what conditions are faculty members allowed to undertake externally funded research projects?",
+        "input": "",
+        "output": "Faculty members are allowed to undertake externally funded research projects provided explicit permission has been obtained from the Rector."
+    },
+]
+
